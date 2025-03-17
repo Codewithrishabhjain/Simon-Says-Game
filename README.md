@@ -10,13 +10,16 @@ The game starts with a single color or pattern shown by the computer. The player
 
 **Implementation Steps:**
 
-1).HTML Structure: 
+**1).HTML Structure:** 
+
 Create an HTML file with buttons for different colors (e.g., red, green, blue, yellow). Add a display area to show the current sequence and player's input. 
 
-2).CSS Styling: 
+**2).CSS Styling:** 
+
 Style the buttons and display area to make the game visually appealing. 
 
-3).JavaScript Logic: 
+**3).JavaScript Logic:** 
+
 Create an array to store the sequence of colors or patterns. Initialize variables to track the current sequence, player's input, and game state. Implement functions to generate a new random color or pattern, display the current sequence, handle player input, and check if the player's input matches the sequence. Use event listeners to detect button clicks and handle player input. Continuously add new colors or patterns to the sequence as the player progresses. End the game and display a message when the player makes a mistake.
 
 **Game Flow:**
